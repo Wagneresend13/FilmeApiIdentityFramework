@@ -38,3 +38,4 @@ C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\ref\FilmeApi.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

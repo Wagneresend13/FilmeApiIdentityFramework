@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pQ9dhEanG3Orn8b03nOqnR/ZcaRBkPOl7Hc2+1XMFoGEKUoZO1xWDXMS5QQAlFsug7F3BTodQgYzoSE17xGUtA==",
+  "dgSpecHash": "346/dL8/i3kQKrEZAR+scgfvYcoxOGoTXyPOKgPxXDObNxyYSOSIajTL3Ut3NFXdCO+bWjH7x/nDhh9xj4+9Gg==",
   "success": true,
   "projectFilePath": "C:\\Users\\wagner resende\\source\\repos\\FilmeApi\\FilmeApi\\FilmeApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wagner resende\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\wagner resende\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\wagner resende\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\wagner resende\\.nuget\\packages\\duende.identityserver.entityframework.storage\\6.1.7\\duende.identityserver.entityframework.storage.6.1.7.nupkg.sha512",
     "C:\\Users\\wagner resende\\.nuget\\packages\\duende.identityserver.storage\\6.1.7\\duende.identityserver.storage.6.1.7.nupkg.sha512",
     "C:\\Users\\wagner resende\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -38,5 +39,16 @@
     "C:\\Users\\wagner resende\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\wagner resende\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Versão detectada do pacote fora da restrição de dependência: Duende.IdentityServer.EntityFramework.Storage 6.1.7 requer AutoMapper (>= 11.0.0 && < 12.0.0), mas a versão AutoMapper 12.0.0 foi resolvida.",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
