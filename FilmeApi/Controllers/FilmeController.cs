@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using FilmeApi.Data;
-using FilmeApi.Data.Dtos;
+using FilmeApi.Data.Dtos.Filme;
 using FilmeApi.Model;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
@@ -76,7 +76,7 @@ namespace FilmeApi.Controllers
                 return NotFound();
             }
 
-            _context.Remove(filme);
+            _context.Filmes.Remove(filme);
             _context.SaveChanges();
             return NoContent();
         }
