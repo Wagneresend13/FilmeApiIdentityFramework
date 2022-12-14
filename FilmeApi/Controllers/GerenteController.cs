@@ -41,5 +41,19 @@ namespace FilmeApi.Controllers
             }
             return NotFound();
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteGerente(int id)
+        {
+            Gerente gerente = _context.Gerentes.FirstOrDefault(gerente => gerente.Id == id);
+            if (gerente == null)
+            {
+                return NotFound();
+            }
+
+            _context.Gerentes.Remove(gerente);
+            _context.SaveChanges();
+            return NoContent();
+        }
     }
 }
