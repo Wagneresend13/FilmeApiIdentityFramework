@@ -1,4 +1,5 @@
 using FilmeApi.Data;
+using FilmeApi.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<FilmeContext>(opts => opts.UseLazyLoadingProxies().UseMySql(builder.Configuration.GetConnectionString("FilmeConnection"), new MySqlServerVersion(new Version(8, 0))));
+builder.Services.AddScoped<FilmeService,FilmeService>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());    
 
 
