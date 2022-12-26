@@ -1,3 +1,10 @@
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.csproj.AssemblyReference.cache
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.AssemblyInfoInputs.cache
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.AssemblyInfo.cs
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.csproj.CoreCompileInputs.cache
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\appsettings.json
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\FilmeApi.exe
@@ -7,6 +14,7 @@ C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\FilmeApi
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\FilmeApi.pdb
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Duende.IdentityServer.EntityFramework.Storage.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Humanizer.dll
@@ -14,6 +22,7 @@ C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Identity
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
@@ -23,13 +32,6 @@ C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Pomelo.E
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.csproj.AssemblyReference.cache
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.AssemblyInfoInputs.cache
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.AssemblyInfo.cs
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.csproj.CoreCompileInputs.cache
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\staticwebassets\msbuild.FilmeApi.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FilmeApi.props
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FilmeApi.props
@@ -44,5 +46,3 @@ C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\refint\F
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.pdb
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\FilmeApi.genruntimeconfig.cache
 C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\obj\Debug\net6.0\ref\FilmeApi.dll
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Castle.Core.dll
-C:\Users\wagner resende\source\repos\FilmeApi\FilmeApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
