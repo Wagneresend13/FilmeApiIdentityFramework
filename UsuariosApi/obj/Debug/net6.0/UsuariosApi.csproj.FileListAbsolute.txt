@@ -49,3 +49,5 @@ C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\obj\Debug\net6.0\refin
 C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.pdb
 C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\obj\Debug\net6.0\UsuariosApi.genruntimeconfig.cache
 C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\obj\Debug\net6.0\ref\UsuariosApi.dll
+C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\FluentResults.dll
+C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
