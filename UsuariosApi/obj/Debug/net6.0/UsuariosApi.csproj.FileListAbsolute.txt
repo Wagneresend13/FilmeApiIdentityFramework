@@ -51,3 +51,8 @@ C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\obj\Debug\net6.0\Usuar
 C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\obj\Debug\net6.0\ref\UsuariosApi.dll
 C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\FluentResults.dll
 C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wagner resende\source\repos\FilmeApi\UsuariosApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
